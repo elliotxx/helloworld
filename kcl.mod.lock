@@ -1,0 +1,15 @@
+[dependencies]
+  [dependencies.tiny-catalog]
+    name = "tiny-catalog"
+    full_name = "tiny-catalog_v0.1.1"
+    version = "v0.1.1"
+    sum = "ClVZ3zGI+So/pvi7bBH0ZUMAdRrFcBnHirw9KLNMt9c="
+    url = "https://github.com/elliotxx/tiny-catalog.git"
+    git_tag = "v0.1.1"
+  [dependencies.tinycatalog]
+    name = "tinycatalog"
+    full_name = "tinycatalog_v0.1.1"
+    version = "v0.1.1"
+    sum = "ClVZ3zGI+So/pvi7bBH0ZUMAdRrFcBnHirw9KLNMt9c="
+    url = "https://github.com/elliotxx/tiny-catalog.git"
+    git_tag = "v0.1.1"
